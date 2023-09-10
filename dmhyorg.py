@@ -1,5 +1,5 @@
 
-#VERSION: 1.00
+#VERSION: 2.00
 #AUTHORS: xyau (xyauhideto@gmail.com)
 
 # MIT License
